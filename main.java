@@ -3,6 +3,7 @@ import javax.swing.*;
 public class main {
 
 	//added Comment
+	//Added new Commit
 
 	static double FirstQuarterScore, SecondQuarterScore, ThirdQuarterScore, FourthQuarterScore;
 
