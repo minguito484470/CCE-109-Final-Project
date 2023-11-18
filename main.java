@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class main {
 
-	static String = "This is a comment";
+	static String = "This is a comment just a comment";
 
 	static double FirstQuarterScore, SecondQuarterScore, ThirdQuarterScore, FourthQuarterScore;
 
