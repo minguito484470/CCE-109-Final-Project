@@ -2,9 +2,7 @@ import javax.swing.*;
 
 public class main {
 
-	//added Comment
-	//Added new Commit
-	//Commit on GH
+	static String = "This is a comment just a comment";
 
 	static double FirstQuarterScore, SecondQuarterScore, ThirdQuarterScore, FourthQuarterScore;
 
