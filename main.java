@@ -2,6 +2,10 @@ import javax.swing.*;
 
 public class main {
 
+	//added Comment
+	//Added new Commit
+	//Commit on GH
+
 	static double FirstQuarterScore, SecondQuarterScore, ThirdQuarterScore, FourthQuarterScore;
 
 	static double FirstSummativeScore, SecondSummativeScore, ThirdSummativeScore, FourthSummativeScore;
