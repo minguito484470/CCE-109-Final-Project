@@ -2,6 +2,8 @@ import javax.swing.*;
 
 public class main {
 
+	//added Comment
+
 	static double FirstQuarterScore, SecondQuarterScore, ThirdQuarterScore, FourthQuarterScore;
 
 	static double FirstSummativeScore, SecondSummativeScore, ThirdSummativeScore, FourthSummativeScore;
