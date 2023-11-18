@@ -4,6 +4,7 @@ public class main {
 
 	//added Comment
 	//Added new Commit
+	//Commit on GH
 
 	static double FirstQuarterScore, SecondQuarterScore, ThirdQuarterScore, FourthQuarterScore;
 
